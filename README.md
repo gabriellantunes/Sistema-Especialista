@@ -7,6 +7,6 @@ Dentro da pasta do trabalho possui um arquivo .exe(jdk-20.0.1_windows-x64_bin.ex
 # Como jogar ?
 Para rodar o jogo basta seguir o seguinte caminho dentre as pastas para executá-lo.
 
-"spec/jogar/Indicaflix/jogar.jar"
+"spec/jogar/IndicaFlix/jogar.jar"
 
 Arquivos '.jar' podemos comparar com arquivos '.exe' mais para aplicações Java.
